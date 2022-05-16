@@ -1,0 +1,4 @@
+log.txt
+/dir2 
+# drop folder
+# *.txt # drop all text folder
